@@ -1,4 +1,4 @@
-# Twitter_sentimental_analysis-with email and Auto Pdf generatio
+aa
 ![Alt text](https://github.com/jagrit2019/Twitter_sentiment_report/blob/main/1.png?raw=true "Title page")
 ![Alt text](https://github.com/jagrit2019/Twitter_sentiment_report/blob/main/2.png "1 page")
 ![Alt text](https://github.com/jagrit2019/Twitter_sentiment_report/blob/main/3.png "2 page")
